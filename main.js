@@ -7,4 +7,4 @@ function sayDontPoke() {
 document.querySelector('img').onclick = sayDontPoke
 
 // call a function
-sayDontPoke()
+// sayDontPoke()
